@@ -1,0 +1,1 @@
+cmd_/home/user/Dropbox/CSCI_3753/Lab_2/module/simple_char_driver.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-45-generic/scripts/module-common.lds --build-id  -o /home/user/Dropbox/CSCI_3753/Lab_2/module/simple_char_driver.ko /home/user/Dropbox/CSCI_3753/Lab_2/module/simple_char_driver.o /home/user/Dropbox/CSCI_3753/Lab_2/module/simple_char_driver.mod.o
